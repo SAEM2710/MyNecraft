@@ -1,0 +1,78 @@
+﻿  NYPerlin.cpp
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\utils\ny_utils.h(25): warning C4005: 'NAN' : redéfinition de macro
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(82): note: voir la définition précédente de 'NAN'
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(19): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(20): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(45): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(46): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(47): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(48): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(49): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(50): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(60): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(64): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(65): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\base\nyperlin.h(67): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  main.cpp
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\utils\ny_utils.h(25): warning C4005: 'NAN' : redéfinition de macro
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(82): note: voir la définition précédente de 'NAN'
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\bouton.h(58): warning C4267: 'initialisation' : conversion de 'size_t' en 'uint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\bouton.h(61): warning C4267: 'argument' : conversion de 'size_t' en 'sint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\edtbox.h(120): warning C4267: '=' : conversion de 'size_t' en 'uint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\lstbox.h(71): warning C4267: 'return' : conversion de 'size_t' en 'uint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\slope.h(69): warning C4267: 'return' : conversion de 'size_t' en 'uint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\slope.h(233): warning C4267: 'initialisation' : conversion de 'size_t' en 'uint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\slope.h(236): warning C4267: 'argument' : conversion de 'size_t' en 'sint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\slope.h(237): warning C4267: '=' : conversion de 'size_t' en 'uint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\slope.h(239): warning C4267: 'argument' : conversion de 'size_t' en 'sint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\label.h(39): warning C4267: 'initialisation' : conversion de 'size_t' en 'uint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\gui\label.h(47): warning C4267: 'argument' : conversion de 'size_t' en 'sint16', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(351): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(352): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(735): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(736): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(737): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(738): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(750): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(751): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(752): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(753): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(765): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(766): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(767): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(768): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(780): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(781): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(782): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(783): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(795): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(796): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(797): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(798): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(810): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(811): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(812): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 4\world.h(813): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 7\avatar.h(161): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 7\avatar.h(167): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\exercice 7\avatar.h(174): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\main.cpp(277): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_minecraft\src\main.cpp(539): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  chunk.cpp
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\utils\ny_utils.h(25): warning C4005: 'NAN' : redéfinition de macro
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(82): note: voir la définition précédente de 'NAN'
+  renderer.cpp
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\utils\ny_utils.h(25): warning C4005: 'NAN' : redéfinition de macro
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(82): note: voir la définition précédente de 'NAN'
+  log.cpp
+c:\users\soufian\documents\scolaire\enjmin\m1\ec203_syntheseimages\gitclone\exercice 1\_engine\src\engine\utils\ny_utils.h(25): warning C4005: 'NAN' : redéfinition de macro
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(82): note: voir la définition précédente de 'NAN'
+  Génération de code en cours...
+log.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+  base.vcxproj -> C:\Users\Soufian\Documents\Scolaire\ENJMIN\M1\EC203_SyntheseImages\GitClone\Exercice 1\_minecraft\Debug\base.exe
+  base.vcxproj -> C:\Users\Soufian\Documents\Scolaire\ENJMIN\M1\EC203_SyntheseImages\GitClone\Exercice 1\_minecraft\Debug\base.pdb (Full PDB)
